@@ -1,0 +1,12 @@
+// BETTERER RESULTS V2.
+// 
+// If this file contains merge conflicts, use `betterer merge` to automatically resolve them:
+// https://phenomnomnominal.github.io/betterer/docs/results-file/#merge
+//
+exports[`stricter compilation`] = {
+  value: `{
+    "src/index.ts:558633489": [
+      [7, 32, 5, "Argument of type \'boolean\' is not assignable to parameter of type \'string\'.", "170962968"]
+    ]
+  }`
+};
