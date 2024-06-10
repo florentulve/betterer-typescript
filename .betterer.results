@@ -3,6 +3,14 @@
 // If this file contains merge conflicts, use `betterer merge` to automatically resolve them:
 // https://phenomnomnominal.github.io/betterer/docs/results-file/#merge
 //
+exports[`no more debuggers`] = {
+  value: `{
+    "src/index.ts:2171896377": [
+      [9, 0, 11, "Unexpected console statement.", "3870399096"]
+    ]
+  }`
+};
+
 exports[`stricter compilation`] = {
   value: `{
     "src/index.ts:558633489": [
